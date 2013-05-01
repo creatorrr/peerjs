@@ -1,0 +1,20 @@
+{
+  "name": "peerjs",
+  "version": "0.2.5",
+  "main": [
+    "dist/peer.js",
+    "dist/peer.min.js"
+  ],
+  "ignore": [
+    ".gitignore",
+    ".gitmodules",
+    "Makefile",
+    "package.json",
+    "bower.json",
+
+    "bin/**",
+    "deps/**",
+    "lib/**",
+    "test/**"
+  ]
+}
